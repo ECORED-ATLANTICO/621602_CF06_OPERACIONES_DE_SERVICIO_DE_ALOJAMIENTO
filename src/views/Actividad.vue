@@ -17,98 +17,68 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Normativa y operación hotelera: aplicando principios en recepción',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b>Objetivo:</b> verificar la apropiación de conocimientos relacionados con normatividad hotelera, registro de huéspedes, protección de datos, seguridad de la información y responsabilidad operativa dentro de los establecimientos de alojamiento.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
-          texto: 'PREGUNTA1',
+          texto: '¿Cuál es la finalidad principal del registro hotelero?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Decorar documentos.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'OPCION2',
+              texto: 'Formalizar el ingreso del huésped.',
               esCorrecta: true,
             },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'c', texto: 'Organizar inventarios.', esCorrecta: false },
+            { id: 'd', texto: 'Promocionar servicios.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 2,
-          texto: 'PREGUNTA2',
+          texto:
+            '¿Qué documentos se utiliza comúnmente para registrar huéspedes extranjeros?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Licencia de conducción.', esCorrecta: false },
+            { id: 'b', texto: 'Tarjeta bancaria.', esCorrecta: false },
+            { id: 'c', texto: 'Pasaporte vigente.', esCorrecta: true },
+            { id: 'd', texto: 'Carné institucional.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 3,
-          texto: 'PREGUNTA3',
+          texto:
+            '¿Cuál es uno de los principios fundamentales de la protección de datos?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
+              texto: 'Compartir información libremente.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OPCION2',
+              texto: 'Confidencialidad de la información.',
               esCorrecta: true,
             },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
+            { id: 'c', texto: 'Publicar datos personales.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Eliminar registros diariamente.',
               esCorrecta: false,
             },
           ],
@@ -117,58 +87,39 @@ export default {
         },
         {
           id: 4,
-          texto: 'PREGUNTA4',
+          texto:
+            '¿Qué herramienta protege las redes informáticas frente a accesos no autorizados?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'PMS.', esCorrecta: false },
+            { id: 'b', texto: 'Router.', esCorrecta: false },
+            { id: 'c', texto: 'Firewall.', esCorrecta: true },
+            { id: 'd', texto: 'Escáner.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 5,
-          texto: 'PREGUNTA5',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: '¿Cuál es una buena práctica de ciberseguridad?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Compartir contraseñas.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
+              texto: 'Descargar archivos desconocidos.',
+              esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
+              texto: 'Utilizar contraseñas seguras.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Mantener sesiones abiertas.',
               esCorrecta: false,
             },
           ],
@@ -177,28 +128,25 @@ export default {
         },
         {
           id: 6,
-          texto: 'PREGUNTA6',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto:
+            '¿Qué información mínima debe contener el registro hotelero según la normatividad?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
+              texto: 'Redes sociales del huésped.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OPCION2',
+              texto: 'Nacionalidad y fechas de estadía.',
               esCorrecta: true,
             },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
+            { id: 'c', texto: 'Historial médico.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Información financiera completa.',
               esCorrecta: false,
             },
           ],
@@ -207,58 +155,43 @@ export default {
         },
         {
           id: 7,
-          texto: 'PREGUNTA7',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto:
+            '¿Qué área del hotel realiza principalmente el proceso de ingreso o check-in?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Cocina.', esCorrecta: false },
+            { id: 'b', texto: 'Mantenimiento.', esCorrecta: false },
+            { id: 'c', texto: 'Recepción.', esCorrecta: true },
+            { id: 'd', texto: 'Compras.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 8,
-          texto: 'PREGUNTA8',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: '¿Cuál es el propósito de las copias de seguridad?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
+              texto: 'Decorar archivos digitales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OPCION2',
+              texto: 'Recuperar información en caso de pérdida.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'OPCION3',
+              texto: 'Eliminar datos automáticamente.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Compartir información públicamente.',
               esCorrecta: false,
             },
           ],
@@ -267,28 +200,29 @@ export default {
         },
         {
           id: 9,
-          texto: 'PREGUNTA9',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: '¿Qué significa la sigla ESCNNA?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'OPCION1',
+              texto: 'Estrategia de control hotelero.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
+              texto: 'Sistema estadístico nacional.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto:
+                'Explotación sexual comercial de niños, niñas y adolescentes.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'OPCION4',
+              texto: 'Escuela de seguridad turística.',
               esCorrecta: false,
             },
           ],
@@ -297,129 +231,25 @@ export default {
         },
         {
           id: 10,
-          texto: 'PREGUNTA10',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: '¿Qué acción debe realizarse ante un correo sospechoso?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'Abrirlo inmediatamente.', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'OPCION1',
+              id: 'b',
+              texto: 'Descargar archivos adjuntos.',
               esCorrecta: false,
             },
             {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
               id: 'c',
-              texto: 'OPCION3',
+              texto: 'Compartirlo con otros usuarios.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 11,
-          texto: 'PREGUNTA11',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
+              texto: 'Verificar su autenticidad antes de abrirlo.',
               esCorrecta: true,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 12,
-          texto: 'PREGUNTA12',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 13,
-          texto: 'PREGUNTA13',
-          imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 14,
-          texto: 'PREGUNTA14',
-          imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 15,
-          texto: 'PREGUNTA15',
-          imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
