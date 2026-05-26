@@ -294,7 +294,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
 
-      .col-lg-auto.d-none.d-lg-block
+      .col-lg-2.d-none.d-lg-block
         img(src="@/assets/curso/tema2/img18.png").mx-auto
       .col-lg
         p.mb-3(data-aos="fade-right") La correcta gestión de este documento es fundamental porque sirve como soporte administrativo, legal y operativo para el establecimiento. Además, la información registrada debe manejarse bajo criterios de confidencialidad y protección de datos personales.
