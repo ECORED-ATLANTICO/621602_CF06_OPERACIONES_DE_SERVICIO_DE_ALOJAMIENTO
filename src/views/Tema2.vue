@@ -39,51 +39,51 @@
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema2/img06.svg' alt='Saludo y bienvenida al huésped', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema2/img06.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Saludo y bienvenida al huésped]
             p.text-center El recepcionista realiza el primer contacto con el huésped de manera cordial y profesional, generando una experiencia positiva desde el inicio. Esta etapa es clave para establecer confianza y proyectar la imagen del establecimiento.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema2/img06.svg' alt='Verificación de la reserva', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema2/img06.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Verificación de la reserva]
             p.text-center Se consulta en el sistema (<em>PMS</em>) la existencia de la reserva, validando fechas, tipo de habitación, número de personas y condiciones acordadas, con el fin de evitar inconsistencias en el servicio.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema2/img06.svg' alt='Solicitud y validación de documentos', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema2/img06.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Solicitud y validación de documentos]
             p.text-center Se solicita el documento de identidad del huésped y se verifica su autenticidad. Este proceso es fundamental para cumplir con requisitos legales y garantizar la seguridad del establecimiento.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema2/img06.svg' alt='Diligenciamiento de la tarjeta de registro hotelero', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema2/img06.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Diligenciamiento de la tarjeta de registro hotelero]
             p.text-center Se recopila y registra la información del huésped en el formato físico o digital, asegurando la trazabilidad de los datos y el cumplimiento de la normativa vigente.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema2/img06.svg' alt='Asignación de habitación', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema2/img06.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Asignación de habitación]
             p.text-center Se asigna la habitación de acuerdo con la disponibilidad, la reserva realizada y los requerimientos del huésped. Este proceso se realiza mediante el sistema, garantizando control y organización.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema2/img06.svg' alt='Entrega de información sobre servicios y políticas', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema2/img06.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Entrega de información sobre servicios y políticas]
             p.text-center Se informa al huésped sobre horarios, servicios disponibles, normas internas y condiciones del alojamiento, asegurando claridad y evitando posibles inconvenientes durante la estancia.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema2/img06.svg' alt='Activación de acceso o llave de habitación', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema2/img06.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Activación de acceso o llave de habitación]
-            p.text-center Se entrega la llave física o tarjeta electrónica previamente activada, permitiendo el acceso a la habitación y a las áreas autorizadas del establecimiento.
+            p.text-center Se entrega la llave física o tarjeta electrónica previamente activada, permitiendo el acceso a la habitación y a las áreas autorizadas del establecimiento.itación y a las áreas autorizadas del establecimiento.
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-2.col-md-8.mb-4.mb-lg-0
@@ -328,7 +328,7 @@
                 | Define requisitos mínimos para el registro de huéspedes.
               li 
                 i.lista-ul__vineta
-                | Establece la creación de un software nacional para el diligenciamiento de la TRH.
+                | Establece la creación de un #[em software] nacional para el diligenciamiento de la TRH.
               li 
                 i.lista-ul__vineta
                 | Exige protección y manejo adecuado de datos personales.
@@ -466,7 +466,7 @@
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img24.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img24.svg' alt='')
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Presentación personal.
@@ -474,7 +474,7 @@
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img24.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img24.svg' alt='')
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Saludo y bienvenida.
@@ -482,7 +482,7 @@
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img24.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img24.svg' alt='')
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Comunicación verbal y no verbal.
@@ -490,7 +490,7 @@
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img24.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img24.svg' alt='')
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Manejo de solicitudes.
@@ -498,7 +498,7 @@
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img24.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img24.svg' alt='')
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Atención telefónica.
@@ -506,7 +506,7 @@
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img24.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img24.svg' alt='')
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Tratamiento respetuoso y confidencial.
@@ -514,7 +514,7 @@
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img24.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img24.svg' alt='')
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Solución de situaciones especiales.

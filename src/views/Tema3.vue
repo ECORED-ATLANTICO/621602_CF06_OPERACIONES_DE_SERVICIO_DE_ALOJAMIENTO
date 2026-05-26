@@ -41,38 +41,38 @@
       .container
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-8.mb-4.mb-lg-0
-            img(src='@/assets/curso/tema3/img06.png', alt='Alfabeto Aeronáutico').mx-auto
+            img(src='@/assets/curso/tema3/img06.png', alt='').mx-auto
           .col-lg-9.col-md-12
             p.mb-3 Dentro de la operación hotelera, la protección de datos implica:
             SlyderF(columnas="col-lg-6 col-xl-4 col-md-12 col-sm-12")
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema3/img07.svg' alt='Restringir el acceso a información sensible', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema3/img07.svg' alt='', style="width: 100px;").mx-auto
                 p.mb-0.text-center Restringir el acceso a información sensible.
 
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema3/img07.svg' alt='Custodiar documentos físicos y digitales', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema3/img07.svg' alt='', style="width: 100px;").mx-auto
                 p.mb-0.text-center Custodiar documentos físicos y digitales.
 
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema3/img07.svg' alt='Solicitar autorización para el tratamiento de datos', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema3/img07.svg' alt='', style="width: 100px;").mx-auto
                 p.mb-0.text-center Solicitar autorización para el tratamiento de datos.
 
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema3/img07.svg' alt='Evitar divulgación de información a terceros no autorizados', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema3/img07.svg' alt='', style="width: 100px;").mx-auto
                 p.mb-0.text-center Evitar divulgación de información a terceros no autorizados.
 
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema3/img07.svg' alt='Aplicar protocolos de almacenamiento seguro', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema3/img07.svg' alt='', style="width: 100px;").mx-auto
                 p.mb-0.text-center Aplicar protocolos de almacenamiento seguro.
 
 
@@ -124,42 +124,42 @@
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema3/img13.svg' alt='Antivirus', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema3/img13.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Antivirus]
             p.text-center Programas diseñados para detectar, bloquear y eliminar virus o amenazas informáticas que puedan afectar los equipos y sistemas del hotel.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema3/img13.svg' alt='Firewalls', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema3/img13.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center <b> <em>Firewalls</em></b>
             p.text-center Herramientas de seguridad que controlan y filtran el tráfico de red, evitando accesos no autorizados a los sistemas hoteleros.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema3/img13.svg' alt='Sistemas de encriptación', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema3/img13.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Sistemas de encriptación]
             p.text-center Mecanismos que protegen la información mediante códigos de seguridad para evitar que los datos puedan ser leídos por personas no autorizadas.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema3/img13.svg' alt='Copias de seguridad', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema3/img13.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Copias de seguridad]
             p.text-center Respaldos de información almacenados de manera segura para recuperar datos en caso de fallas, pérdida o ataques informáticos.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema3/img13.svg' alt='Controles de acceso', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema3/img13.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Controles de acceso]
             p.text-center Procedimientos y configuraciones que limitan el acceso a la información y sistemas según las funciones y permisos de cada usuario.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema3/img13.svg' alt='Autenticación de usuarios', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema3/img13.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Autenticación de usuarios]
             p.text-center Métodos utilizados para verificar la identidad de las personas que ingresan a los sistemas tecnológicos del hotel mediante contraseñas, códigos o validaciones de seguridad.
 
@@ -212,13 +212,13 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-9.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 Caso práctico
-              p.mb-0 Durante su turno en recepción, un colaborador recibe un correo que aparenta ser del área de sistemas, solicitando actualizar con urgencia las credenciales del Property Management System (PMS) mediante un enlace externo. Al revisar el mensaje, identifica inconsistencias en el remitente y en la dirección del enlace, lo que le genera sospecha.
+              p.mb-0 Durante su turno en recepción, un colaborador recibe un correo que aparenta ser del área de sistemas, solicitando actualizar con urgencia las credenciales del <em>Property Management System</em> (<em>PMS</em>) mediante un enlace externo. Al revisar el mensaje, identifica inconsistencias en el remitente y en la dirección del enlace, lo que le genera sospecha.
             .col-lg-3.col-md-6.order-2.order-lg-2
               img(src="@/assets/curso/tema3/img15.png", alt="").img-fluid.mx-auto.w-75
           
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-12.order-1.order-lg-1.mb-4.mb-lg-0
-              p.mb-3 Siguiendo los protocolos de seguridad del hotel, el colaborador decide no ingresar al enlace ni proporcionar información. En su lugar, reporta inmediatamente el correo al área tecnológica para su verificación. Posteriormente, se confirma que se trataba de un intento de fraude tipo phishing.
+              p.mb-3 Siguiendo los protocolos de seguridad del hotel, el colaborador decide no ingresar al enlace ni proporcionar información. En su lugar, reporta inmediatamente el correo al área tecnológica para su verificación. Posteriormente, se confirma que se trataba de un intento de fraude tipo <em>phishing</em>.
 
               p.mb-0 Este caso evidencia que una acción aparentemente simple puede representar riesgos operativos y de seguridad, como el acceso no autorizado al sistema o la exposición de datos de huéspedes. La correcta aplicación de protocolos permite prevenir incidentes y proteger la información del establecimiento.
 
