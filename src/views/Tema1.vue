@@ -31,9 +31,9 @@
         figure
           img(src="@/assets/curso/tema1/img03.png", data-aos="zoom-in")
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5.no-pointer
       .col-lg-3.mb-4.mb-lg-0.col-md-6
-        .tarjeta.bg-color-21.p-4.h-100
+        .tarjeta.tarjeta--boton.bg-color-21.p-4.h-100
           .row.justify-content-center.mb-3
             .col-12  
               img(src='@/assets/curso/tema1/img04.png' alt='Imagen de reserva confirmada', style="width: 150px;").mx-auto
@@ -41,7 +41,7 @@
           p.mb-0.text-center Garantiza el control de acceso al establecimiento, la correcta identificación de los huéspedes y la prevención de riesgos. Es fundamental para proteger tanto a los clientes como a las instalaciones.
 	
       .col-lg-3.mb-4.mb-lg-0.col-md-6
-        .tarjeta.bg-color-21.p-4.h-100
+        .tarjeta.tarjeta--boton.bg-color-21.p-4.h-100
           .row.justify-content-center.mb-3
             .col-12  
               img(src='@/assets/curso/tema1/img05.png' alt='Imagen de reserva confirmada', style="width: 150px;").mx-auto
@@ -49,7 +49,7 @@
           p.mb-0.text-center Fortalece la credibilidad del servicio mediante procedimientos claros y consistentes. Permite que el huésped perciba profesionalismo y seguridad en la gestión de su reserva y su estancia.
 	
       .col-lg-3.mb-4.mb-lg-0.col-md-6
-        .tarjeta.bg-color-22.p-4.h-100
+        .tarjeta.tarjeta--boton.bg-color-21.p-4.h-100
           .row.justify-content-center.mb-3
             .col-12  
               img(src='@/assets/curso/tema1/img06.png' alt='Imagen de reserva confirmada', style="width: 150px;").mx-auto
@@ -57,7 +57,7 @@
           p.mb-0.text-center Estandariza los procesos de atención, asegurando eficiencia, orden y cumplimiento de los protocolos establecidos, lo que impacta directamente en la satisfacción del huésped.
 	
       .col-lg-3.mb-4.mb-lg-0.col-md-6
-        .tarjeta.bg-color-21.p-4.h-100
+        .tarjeta.tarjeta--boton.bg-color-21.p-4.h-100
           .row.justify-content-center.mb-3
             .col-12  
               img(src='@/assets/curso/tema1/img07.png' alt='Imagen de reserva confirmada', style="width: 150px;").mx-auto

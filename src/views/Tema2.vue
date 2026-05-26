@@ -295,7 +295,7 @@
     .row.justify-content-center.align-items-center.mb-5
 
       .col-lg-auto.d-none.d-lg-block
-        img(src="@/assets/curso/tema2/img18.svg").mx-auto
+        img(src="@/assets/curso/tema2/img18.png").mx-auto
       .col-lg
         p.mb-3(data-aos="fade-right") La correcta gestión de este documento es fundamental porque sirve como soporte administrativo, legal y operativo para el establecimiento. Además, la información registrada debe manejarse bajo criterios de confidencialidad y protección de datos personales.
         p(data-aos="fade-right").mb-0 Como se mencionó anteriormente, la tarjeta de registro hotelero es la prueba del contrato de hospedaje y está soportada jurídicamente en las siguientes leyes, decretos y resoluciones, emanados del Ministerio de Industria, Comercio y Turismo.
