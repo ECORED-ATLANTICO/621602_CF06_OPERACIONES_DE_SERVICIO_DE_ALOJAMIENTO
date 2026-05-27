@@ -83,7 +83,7 @@
               .col-8
                 img(src='@/assets/curso/tema2/img06.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Activación de acceso o llave de habitación]
-            p.text-center Se entrega la llave física o tarjeta electrónica previamente activada, permitiendo el acceso a la habitación y a las áreas autorizadas del establecimiento.itación y a las áreas autorizadas del establecimiento.
+            p.text-center Se entrega la llave física o tarjeta electrónica previamente activada, permitiendo el acceso a la habitación y a las áreas autorizadas del establecimiento.
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-2.col-md-8.mb-4.mb-lg-0

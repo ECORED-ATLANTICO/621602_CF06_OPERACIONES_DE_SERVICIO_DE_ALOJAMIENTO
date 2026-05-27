@@ -197,7 +197,7 @@
               p(data-aos="fade-left").mb-4 Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá adentrarse en la comprensión de la normativa y operación hotelera en la era moderna.
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Protocolos de atención en recepción"
+                texto="Normativa y operación hotelera"
                 tiempo
                 :audio="require('../assets/curso/audio/1.mp3')"
               )

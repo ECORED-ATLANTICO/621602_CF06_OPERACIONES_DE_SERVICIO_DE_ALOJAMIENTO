@@ -132,7 +132,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/tema3/img13.svg' alt='', style="width: 100px;").mx-auto
-            h4.text-center <b> <em>Firewalls</em></b>
+            h4.text-center #[b #[em Firewalls]]
             p.text-center Herramientas de seguridad que controlan y filtran el tráfico de red, evitando accesos no autorizados a los sistemas hoteleros.
 
           .tarjeta.bg-fondo-8.p-4.h-100
