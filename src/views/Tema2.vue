@@ -15,7 +15,7 @@
       .col-lg-9
         p.mb-3(data-aos="fade-right") El registro de huéspedes constituye uno de los procesos más importantes dentro de la operación de recepción hotelera, debido a que permite formalizar la prestación del servicio de alojamiento, verificar la identidad del cliente y garantizar el cumplimiento de los procedimientos técnicos y normativos establecidos por el hotel. Este proceso no solo tiene una finalidad administrativa, sino también operativa, legal y de seguridad, ya que la información registrada sirve como soporte para el control de ocupación, la facturación, la protección de datos y el seguimiento de los huéspedes durante su permanencia en el establecimiento.
         .bg-fondo-6.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-0
-          p.mb-0 En la actualidad, los procesos de registro se apoyan tanto en procedimientos manuales como en herramientas tecnológicas integradas a sistemas <em>PMS</em>, lo que facilita el almacenamiento, consulta y actualización de la información en tiempo real. En consecuencia, el personal de recepción debe aplicar protocolos claros relacionados con la atención, la verificación documental y el diligenciamiento correcto de los registros hoteleros.
+          p.mb-0 En la actualidad, los procesos de registro se apoyan tanto en procedimientos manuales como en herramientas tecnológicas integradas a sistemas PMS, lo que facilita el almacenamiento, consulta y actualización de la información en tiempo real. En consecuencia, el personal de recepción debe aplicar protocolos claros relacionados con la atención, la verificación documental y el diligenciamiento correcto de los registros hoteleros.
     
     separador
     
@@ -48,7 +48,7 @@
               .col-8
                 img(src='@/assets/curso/tema2/img06.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Verificación de la reserva]
-            p.text-center Se consulta en el sistema (<em>PMS</em>) la existencia de la reserva, validando fechas, tipo de habitación, número de personas y condiciones acordadas, con el fin de evitar inconsistencias en el servicio.
+            p.text-center Se consulta en el sistema (PMS) la existencia de la reserva, validando fechas, tipo de habitación, número de personas y condiciones acordadas, con el fin de evitar inconsistencias en el servicio.
 
           .tarjeta.bg-fondo-8.p-4.h-100
             .row.justify-content-center.mb-3
@@ -105,7 +105,7 @@
 
       .col-lg-6.col-md-12.mb-0.mb-lg-0
         .bg-fondo-9.px-lg-4.py-lg-3.px-4.py-3.br-15(data-aos="fade-down")
-          p.mb-0(data-aos="fade-right") Entre los documentos más utilizados para el registro hotelero se encuentran:
+          p.mb-3(data-aos="fade-right") Entre los documentos más utilizados para el registro hotelero se encuentran:
 
           ul.lista-ul.mb-0  
             li
@@ -227,8 +227,8 @@
                 td Datos personales, dirección, contacto, ocupación y fechas de estadía.
                 td Datos personales, nacionalidad, país de residencia, motivo del viaje y fechas de ingreso al país.
               tr
-                td Registro en el <em>PMS</em>
-                td Se diligencia el registro hotelero y se almacena la información en el sistema <em>PMS</em>.
+                td Registro en el PMS
+                td Se diligencia el registro hotelero y se almacena la información en el sistema PMS.
                 td Se diligencia el registro hotelero incluyendo información migratoria y nacionalidad.
               tr
                 td Requisitos legales
@@ -254,7 +254,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.bg-color-23.p-4
-          p.mb-0(data-aos="fade-right") En muchos hoteles, el <em>PMS</em> facilita este procedimiento mediante formularios digitales y lectura automática de documentos, optimizando tiempos y reduciendo errores en el registro.
+          p.mb-0(data-aos="fade-right") En muchos hoteles, el PMS facilita este procedimiento mediante formularios digitales y lectura automática de documentos, optimizando tiempos y reduciendo errores en el registro.
 
     separador
     
@@ -267,7 +267,7 @@
 
         .bg-fondo-10.px-lg-4.py-lg-3.px-4.py-3.br-15.mb-4(data-aos="fade-down")
           .col-lg-11.col-md-12
-            p.mb-0(data-aos="fade-right").p-3 La TRH puede diligenciarse en formato físico o digital, dependiendo de las herramientas tecnológicas utilizadas por el hotel. Actualmente, muchos establecimientos integran este procedimiento directamente al <em>PMS</em>, permitiendo almacenar la información de manera automática y segura.
+            p.mb-0(data-aos="fade-right").p-3 La TRH puede diligenciarse en formato físico o digital, dependiendo de las herramientas tecnológicas utilizadas por el hotel. Actualmente, muchos establecimientos integran este procedimiento directamente al PMS, permitiendo almacenar la información de manera automática y segura.
 
 
         .row.align-items-center.mb-0
@@ -280,13 +280,13 @@
 
       .col-lg-3.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0.d-none.d-lg-block
         figure
-          img(src="@/assets/curso/tema2/img16.png", data-aos="zoom-in")
+          img(src="@/assets/curso/tema2/img16.png", data-aos="zoom-in").w-lg-75.mx-auto
 
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 2.
+          h5 #[b Figura 2.]
           span Ejemplo de tarjeta de registro hotelero 
         img.mb-2(data-aos="fade-up", src="@/assets/curso/tema2/img17.png", alt="En la figura 2 se detalla un ejemplo de tarjeta de registro hotelero. En ella se introduce la información del huésped al momento de su ingreso.  Los datos que se incluyen en esta tarjeta de registro son: Número o nombre de la habitación. Tipo de identificación. Número de identificación. Nombre (s), apellido, segundo apellido o de casada. Fecha de nacimiento. Género. Nacionalidad. Principal motivo del viaje. Categoría visa o permiso de ingreso. Número de visa. Fecha expedición visa. Vencimiento visa. Profesión. Ocupación u oficio. País de residencia. Departamento/estado/provincia de residencia. Ciudad de residencia. País de procedencia. Departamento/estado/provincia de procedencia. Ciudad de procedencia. País de destino. Departamento/estado/provincia de destino. Ciudad de destino. Fecha de entrada (check-in). Fecha de salida (check-out). Número de acompañantes.")
         //- img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img16-m.png", alt="La figura presenta un decálogo de buenas prácticas orientadas a la protección de la información de los huéspedes en un establecimiento hotelero, destacando que estos datos son confidenciales y su resguardo es responsabilidad de todo el personal. Se enfatiza la necesidad de verificar la identidad del huésped antes de acceder o compartir información, evitar la divulgación de datos a personas no autorizadas y utilizar contraseñas seguras para el acceso a los sistemas. Además, se resaltan acciones clave como custodiar adecuadamente los documentos físicos y digitales, acceder únicamente a la información necesaria para las funciones laborales, usar de manera segura los dispositivos tecnológicos y reportar oportunamente cualquier incidente. En conjunto, estas prácticas buscan garantizar la seguridad de la información, proteger la privacidad del huésped y preservar la confianza y la reputación del hotel.")
@@ -415,40 +415,40 @@
 
     .row
       .col-lg-12
-        .bg-color-1-degrade.p-5.mb-0.rounded-2.br-15
+        .bg-color-1-degrade.p-4.mb-0.rounded-2.br-15
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-12.mb-4.mb-lg-0
+            .col-lg-5.col-md-12.mb-4.mb-lg-0
               .row.align-items-center.mb-0
                 .col-lg-auto.mb-4.mb-lg-0
                   img(src="@/assets/curso/tema2/img22.svg", style="max-width: 100px;").mx-auto
                 .col-lg
                   p.mb-0 Para profundizar más sobre los textos, decretos, y leyes que regulan la normatividad del registro hotelero en Colombia, consulte los siguientes anexos:
-            .col-lg-6
+            .col-lg-7
               .row
                 .col-lg-6.col-md-6.col-12.d-flex.mb-3
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Ley_679_de_2001.pdf')" target="_blank")
-                    span Anexo Ley 679 de 2001
-                    i.fas.fa-download
+                  a.boton.w-full.color-acento-botones.justify-content-center(:href="obtenerLink('/downloads/Anexo_Ley_679_de_2001.pdf')" target="_blank")
+                    span Ver anexo Ley 679 de 2001
+                    i.fas.fa-file-download
 
                 .col-lg-6.col-md-6.col-12.d-flex.mb-3
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Ley_985_de_2005.pdf')" target="_blank")
-                    span Anexo Ley 985 de 2005
-                    i.fas.fa-download
+                  a.boton.w-full.color-acento-botones.justify-content-center(:href="obtenerLink('/downloads/Anexo_Ley_985_de_2005.pdf')" target="_blank")
+                    span Ver anexo Ley 985 de 2005
+                    i.fas.fa-file-download
 
                 .col-lg-6.col-md-6.col-12.d-flex.mb-3
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Ley_1558_de_2012.pdf')" target="_blank")
-                    span Anexo Ley 1558 de 2012
-                    i.fas.fa-download
+                  a.boton.w-full.color-acento-botones.justify-content-center(:href="obtenerLink('/downloads/Anexo_Ley_1558_de_2012.pdf')" target="_blank")
+                    span Ver anexo Ley 1558 de 2012
+                    i.fas.fa-file-download
 
                 .col-lg-6.col-md-6.col-12.d-flex.mb-3
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Decreto_1074_de_2015.pdf')" target="_blank")
-                    span Anexo Decreto 1074 de 2015
-                    i.fas.fa-download
+                  a.boton.w-full.color-acento-botones.justify-content-center(:href="obtenerLink('/downloads/Anexo_Decreto_1074_de_2015.pdf')" target="_blank")
+                    span Ver anexo Decreto 1074 de 2015
+                    i.fas.fa-file-download
 
                 .col-lg-6.col-md-6.col-12.d-flex.mb-0
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Decreto_2119_de_2018.pdf')" target="_blank")
-                    span Anexo Decreto 2119 de 2018
-                    i.fas.fa-download
+                  a.boton.w-full.color-acento-botones.justify-content-center(:href="obtenerLink('/downloads/Anexo_Decreto_2119_de_2018.pdf')" target="_blank")
+                    span Ver anexo Decreto 2119 de 2018
+                    i.fas.fa-file-download
 
     separador
     

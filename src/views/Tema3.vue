@@ -19,7 +19,7 @@
       .col-lg-2.d-none.d-lg-block
         img(src="@/assets/curso/tema3/img02.png").mx-auto
       .col-lg-10
-        p.mb-0(data-aos="fade-right") En la operación hotelera, la recepción y las áreas administrativas utilizan sistemas <em>PMS</em>, plataformas digitales y redes informáticas que permiten almacenar y compartir información en tiempo real. Aunque estas herramientas optimizan procesos y facilitan la gestión operativa, también pueden exponer al establecimiento a riesgos relacionados con accesos no autorizados, pérdida de información, ataques informáticos o uso inadecuado de datos personales. Debido a ello, los hoteles deben implementar medidas de seguridad orientadas a proteger tanto la infraestructura tecnológica como la información de huéspedes y colaboradores.
+        p.mb-0(data-aos="fade-right") En la operación hotelera, la recepción y las áreas administrativas utilizan sistemas PMS, plataformas digitales y redes informáticas que permiten almacenar y compartir información en tiempo real. Aunque estas herramientas optimizan procesos y facilitan la gestión operativa, también pueden exponer al establecimiento a riesgos relacionados con accesos no autorizados, pérdida de información, ataques informáticos o uso inadecuado de datos personales. Debido a ello, los hoteles deben implementar medidas de seguridad orientadas a proteger tanto la infraestructura tecnológica como la información de huéspedes y colaboradores.
 
 
     separador
@@ -76,9 +76,9 @@
                 p.mb-0.text-center Aplicar protocolos de almacenamiento seguro.
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-3
       .col-lg-auto.d-none.d-lg-block
-        img(src="@/assets/curso/tema3/img08.svg").mx-auto
+        img(src="@/assets/curso/tema3/img08.svg").mx-auto.w-50
       .col-lg
         p.mb-0(data-aos="fade-right") La seguridad de la información también fortalece la confianza del huésped. Cuando el establecimiento protege adecuadamente los datos personales y financieros, se genera mayor percepción de seguridad y profesionalismo en la prestación del servicio.
 
@@ -92,7 +92,7 @@
       img(src="@/assets/curso/tema3/img09.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
-        p.banner-text Los establecimientos de alojamiento utilizan redes informáticas, sistemas <em>PMS</em>, plataformas de pago y canales digitales que requieren mecanismos de protección frente a amenazas tecnológicas. La seguridad digital se enfoca precisamente en proteger equipos, redes y aplicaciones frente a ataques informáticos, accesos indebidos o pérdida de información.
+        p.banner-text Los establecimientos de alojamiento utilizan redes informáticas, sistemas PMS, plataformas de pago y canales digitales que requieren mecanismos de protección frente a amenazas tecnológicas. La seguridad digital se enfoca precisamente en proteger equipos, redes y aplicaciones frente a ataques informáticos, accesos indebidos o pérdida de información.
 
 
     .row.mb-5.justify-content-center.align-items-center
@@ -106,7 +106,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 3.
+          h5 #[b Figura 3.]
           span Riesgos operativos asociados a la seguridad digital  
         img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema3/img11.png", alt="La figura 3 presenta los siete riesgos digitales que pueden afectar la operación de un establecimiento hotelero y la protección de la información de huéspedes y colaboradores. La figura desarrolla los siguientes riesgos: 1. Accesos no autorizados al PMS: personas no autorizadas pueden ingresar al sistema de gestión hotelera y acceder a información sensible o manipular datos operativos. 2. Robo o filtración de información: la información de huéspedes puede ser robada o divulgada, generando riesgos legales, financieros y afectación de la reputación del hotel. 3. Pérdida de datos: fallas técnicas, eliminación accidental o daños en los sistemas pueden provocar pérdida de información y afectar la operación hotelera. 4. Suplantación de identidad: algunas personas pueden hacerse pasar por huéspedes o colaboradores para obtener acceso a información, servicios o realizar fraudes. 5. Correos fraudulentos: los correos de tipo phishing buscan engañar al personal para obtener contraseñas, información confidencial o instalar programas maliciosos. 6. Ataques a redes internas: los atacantes pueden ingresar a las redes del hotel para interceptar información, afectar dispositivos o interrumpir servicios tecnológicos. 7. Fallas en sistemas tecnológicos: errores de software, caídas de sistemas o falta de mantenimiento pueden generar interrupciones y afectar la continuidad operativa del hotel. La prevención, la capacitación y el uso de buenas prácticas de ciberseguridad son clave para proteger la información y garantizar un servicio seguro y confiable.")
         img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema3/img12.png", alt="La figura 3 presenta los siete riesgos digitales que pueden afectar la operación de un establecimiento hotelero y la protección de la información de huéspedes y colaboradores. La figura desarrolla los siguientes riesgos: 1. Accesos no autorizados al PMS: personas no autorizadas pueden ingresar al sistema de gestión hotelera y acceder a información sensible o manipular datos operativos. 2. Robo o filtración de información: la información de huéspedes puede ser robada o divulgada, generando riesgos legales, financieros y afectación de la reputación del hotel. 3. Pérdida de datos: fallas técnicas, eliminación accidental o daños en los sistemas pueden provocar pérdida de información y afectar la operación hotelera. 4. Suplantación de identidad: algunas personas pueden hacerse pasar por huéspedes o colaboradores para obtener acceso a información, servicios o realizar fraudes. 5. Correos fraudulentos: los correos de tipo phishing buscan engañar al personal para obtener contraseñas, información confidencial o instalar programas maliciosos. 6. Ataques a redes internas: los atacantes pueden ingresar a las redes del hotel para interceptar información, afectar dispositivos o interrumpir servicios tecnológicos. 7. Fallas en sistemas tecnológicos: errores de software, caídas de sistemas o falta de mantenimiento pueden generar interrupciones y afectar la continuidad operativa del hotel. La prevención, la capacitación y el uso de buenas prácticas de ciberseguridad son clave para proteger la información y garantizar un servicio seguro y confiable.")
@@ -190,7 +190,7 @@
                 td Sistemas de encriptación
               tr
                 td Virus o <em>malware</em>
-                td Daños en el <em>PMS</em>
+                td Daños en el PMS
                 td Antivirus y actualizaciones
               tr
                 td Accesos no autorizados
@@ -212,7 +212,7 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-9.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 Caso práctico
-              p.mb-0 Durante su turno en recepción, un colaborador recibe un correo que aparenta ser del área de sistemas, solicitando actualizar con urgencia las credenciales del <em>Property Management System</em> (<em>PMS</em>) mediante un enlace externo. Al revisar el mensaje, identifica inconsistencias en el remitente y en la dirección del enlace, lo que le genera sospecha.
+              p.mb-0 Durante su turno en recepción, un colaborador recibe un correo que aparenta ser del área de sistemas, solicitando actualizar con urgencia las credenciales del Property Management System (PMS) mediante un enlace externo. Al revisar el mensaje, identifica inconsistencias en el remitente y en la dirección del enlace, lo que le genera sospecha.
             .col-lg-3.col-md-6.order-2.order-lg-2
               img(src="@/assets/curso/tema3/img15.png", alt="").img-fluid.mx-auto.w-75
           
@@ -238,7 +238,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 4.
+          h5 #[b Figura 4.]
           span Principales recomendaciones y buenas prácticas de ciberseguridad 
         img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema3/img17.png", alt="Principales recomendaciones y buenas prácticas de ciberseguridad. La figura 4 presenta ocho recomendaciones orientadas a fortalecer la protección de la información y la seguridad digital en establecimientos hoteleros. La infografía desarrolla las siguientes recomendaciones: 1. Utilizar contraseñas seguras y cambiarlas periódicamente: se recomienda usar contraseñas largas que combinen letras, números y símbolos, además de actualizarlas periódicamente para fortalecer la seguridad. 2. Bloquear equipos cuando no estén en uso: los equipos y sesiones deben bloquearse al ausentarse para evitar accesos no autorizados a la información. 3. Evitar compartir usuarios o claves de acceso: cada colaborador debe utilizar su propio usuario y contraseña. No se deben compartir ni dejar visibles las claves de acceso. 4. Verificar la autenticidad de correos electrónicos: antes de abrir correos electrónicos, se recomienda revisar remitente, enlaces y contenido. En caso de duda, la información debe confirmarse por canales oficiales. 5. No descargar archivos sospechosos: debe evitarse la descarga de archivos o programas provenientes de fuentes desconocidas, ya que pueden contener virus o programas maliciosos. 6. Custodiar documentos físicos: los documentos con información de huéspedes deben mantenerse en lugares seguros y bajo control del personal autorizado. 7. Reportar incidentes o accesos irregulares: cualquier actividad sospechosa o incidente de seguridad debe reportarse inmediatamente al responsable correspondiente. 8. Acceder únicamente a la información necesaria para las funciones asignadas: el acceso a la información debe limitarse únicamente a los datos requeridos para el desarrollo de las funciones laborales.")
         img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema3/img18.png", alt="Principales recomendaciones y buenas prácticas de ciberseguridad. La figura 4 presenta ocho recomendaciones orientadas a fortalecer la protección de la información y la seguridad digital en establecimientos hoteleros. La infografía desarrolla las siguientes recomendaciones: 1. Utilizar contraseñas seguras y cambiarlas periódicamente: se recomienda usar contraseñas largas que combinen letras, números y símbolos, además de actualizarlas periódicamente para fortalecer la seguridad. 2. Bloquear equipos cuando no estén en uso: los equipos y sesiones deben bloquearse al ausentarse para evitar accesos no autorizados a la información. 3. Evitar compartir usuarios o claves de acceso: cada colaborador debe utilizar su propio usuario y contraseña. No se deben compartir ni dejar visibles las claves de acceso. 4. Verificar la autenticidad de correos electrónicos: antes de abrir correos electrónicos, se recomienda revisar remitente, enlaces y contenido. En caso de duda, la información debe confirmarse por canales oficiales. 5. No descargar archivos sospechosos: debe evitarse la descarga de archivos o programas provenientes de fuentes desconocidas, ya que pueden contener virus o programas maliciosos. 6. Custodiar documentos físicos: los documentos con información de huéspedes deben mantenerse en lugares seguros y bajo control del personal autorizado. 7. Reportar incidentes o accesos irregulares: cualquier actividad sospechosa o incidente de seguridad debe reportarse inmediatamente al responsable correspondiente. 8. Acceder únicamente a la información necesaria para las funciones asignadas: el acceso a la información debe limitarse únicamente a los datos requeridos para el desarrollo de las funciones laborales.")

@@ -123,7 +123,7 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10.col-md-12.order-2.order-lg-1
-        p.mb-3(data-aos="fade-right") La transformación digital ha generado importantes cambios en la manera en que operan los establecimientos de alojamiento. Actualmente, los hoteles utilizan plataformas tecnológicas, sistemas <em>PMS</em>, registros digitales y herramientas de comunicación en línea que permiten optimizar procesos y mejorar la experiencia del huésped.
+        p.mb-3(data-aos="fade-right") La transformación digital ha generado importantes cambios en la manera en que operan los establecimientos de alojamiento. Actualmente, los hoteles utilizan plataformas tecnológicas, sistemas PMS, registros digitales y herramientas de comunicación en línea que permiten optimizar procesos y mejorar la experiencia del huésped.
         .bg-fondo-17.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-0
           p.mb-0.ms-lg-3.ms-0 Sin embargo, el avance tecnológico también ha generado nuevos retos normativos relacionados con protección de datos, seguridad digital, comercio electrónico y manejo de información personal. En consecuencia, los establecimientos deben actualizar permanentemente sus procedimientos y políticas para garantizar el cumplimiento de las disposiciones legales aplicables al entorno digital.
       .col-lg-2.mb-4.mb-lg-0.col-md-6.order-1.order-lg-2
