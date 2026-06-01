@@ -248,12 +248,12 @@ export default {
         'Sigla de Explotación Sexual Comercial de Niños, Niñas y Adolescentes asociada al turismo.',
     },
     {
-      termino: 'Firewall',
+      termino: '<em>Firewall</em>',
       significado:
         'Herramienta de seguridad digital que controla el acceso a redes y sistemas informáticos.',
     },
     {
-      termino: 'Habeas Data',
+      termino: '<em>Habeas Data</em>',
       significado:
         'Derecho que tienen las personas a conocer, actualizar y controlar el uso de su información personal.',
     },
@@ -396,8 +396,7 @@ export default {
     {
       referencia:
         'Ministerio de Comercio, Industria y Turismo. (2016). <em>Decreto 1964 de 2016</em>. SUIN-Juriscol.',
-      link:
-        'https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/30030974',
+      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30030222',
     },
     {
       referencia:
