@@ -463,7 +463,7 @@
         p.mb-3(data-aos="fade-right") La recepción constituye el principal punto de contacto entre el huésped y el establecimiento de alojamiento. En consecuencia, los protocolos de atención permiten estandarizar procedimientos y garantizar una experiencia organizada, segura y orientada a la calidad del servicio.
         p.mb-4 Los protocolos de recepción incluyen lineamientos relacionados con:
         .row.mb-3.mb-lg-2
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema2/img24.svg' alt='')
@@ -471,7 +471,7 @@
                 .p-3
                   p.mb-0.text-bold Presentación personal.
 
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema2/img24.svg' alt='')
@@ -479,7 +479,7 @@
                 .p-3
                   p.mb-0.text-bold Saludo y bienvenida.
 
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema2/img24.svg' alt='')
@@ -487,7 +487,7 @@
                 .p-3
                   p.mb-0.text-bold Comunicación verbal y no verbal.
 
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema2/img24.svg' alt='')
@@ -495,7 +495,7 @@
                 .p-3
                   p.mb-0.text-bold Manejo de solicitudes.
 
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema2/img24.svg' alt='')
@@ -503,7 +503,7 @@
                 .p-3
                   p.mb-0.text-bold Atención telefónica.
 
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema2/img24.svg' alt='')
@@ -511,7 +511,7 @@
                 .p-3
                   p.mb-0.text-bold Tratamiento respetuoso y confidencial.
 
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema2/img24.svg' alt='')

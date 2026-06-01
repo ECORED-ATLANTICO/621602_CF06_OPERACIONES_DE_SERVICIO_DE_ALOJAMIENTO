@@ -113,7 +113,7 @@
         figcaption Nota. SENA, (2026).
 
 
-    .row.mb-5
+    .row.mb-5.justify-content-center
       .col-lg-10
         p.mb-0 Un incidente de seguridad puede afectar la operación del hotel, generar pérdidas económicas y comprometer la confianza de los huéspedes. Por esta razón, los establecimientos implementan elementos básicos de seguridad digital para proteger sus sistemas de información:
 
@@ -212,7 +212,7 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-9.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 Caso práctico
-              p.mb-0 Durante su turno en recepción, un colaborador recibe un correo que aparenta ser del área de sistemas, solicitando actualizar con urgencia las credenciales del Property Management System (PMS) mediante un enlace externo. Al revisar el mensaje, identifica inconsistencias en el remitente y en la dirección del enlace, lo que le genera sospecha.
+              p.mb-0 Durante su turno en recepción, un colaborador recibe un correo que aparenta ser del área de sistemas, solicitando actualizar con urgencia las credenciales del <em>Property Management System</em> (PMS) mediante un enlace externo. Al revisar el mensaje, identifica inconsistencias en el remitente y en la dirección del enlace, lo que le genera sospecha.
             .col-lg-3.col-md-6.order-2.order-lg-2
               img(src="@/assets/curso/tema3/img15.png", alt="").img-fluid.mx-auto.w-75
           
