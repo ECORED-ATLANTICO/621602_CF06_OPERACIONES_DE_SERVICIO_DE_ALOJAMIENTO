@@ -138,7 +138,7 @@
         p.mb-3(data-aos="fade-right") La digitalización del registro hotelero, las reservas en línea, los pagos electrónicos y el almacenamiento de información en la nube exige mayores controles de seguridad y protocolos claros para el tratamiento de datos personales. Asimismo, el personal hotelero debe conocer las normas relacionadas con confidencialidad, manejo de información y uso adecuado de plataformas tecnológicas.
         p.mb-4(data-aos="fade-right") La actualización normativa en hotelería permite responder a:
         .row
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema4/img12.svg' alt='')
@@ -146,7 +146,7 @@
                 .p-3
                   p.mb-0.text-bold Cambios legales del sector turístico.
 
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema4/img12.svg' alt='')
@@ -154,7 +154,7 @@
                 .p-3
                   p.mb-0.text-bold Nuevas tecnologías.
 
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema4/img12.svg' alt='')
@@ -162,7 +162,7 @@
                 .p-3
                   p.mb-0.text-bold Exigencias de protección de datos.
 
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema4/img12.svg' alt='')
@@ -170,7 +170,7 @@
                 .p-3
                   p.mb-0.text-bold Transformación de los hábitos de consumo.
 
-          .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
+          .col-xl-4.col-lg-6.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema4/img12.svg' alt='')

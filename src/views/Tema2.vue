@@ -105,22 +105,22 @@
 
       .col-lg-6.col-md-12.mb-0.mb-lg-0
         .bg-fondo-9.px-lg-4.py-lg-3.px-4.py-3.br-15(data-aos="fade-down")
-          p.mb-3(data-aos="fade-right") Entre los documentos más utilizados para el registro hotelero se encuentran:
+          p.mb-1(data-aos="fade-right") Entre los documentos más utilizados para el registro hotelero se encuentran:
 
           ul.lista-ul.mb-0  
-            li
+            li.mb-0
               i.lista-ul__vineta
               | Cédula de ciudadanía (mayores de edad).
-            li
+            li.mb-0
               i.lista-ul__vineta
               | Tarjeta de identidad o registro civil (menores de edad).
-            li
+            li.mb-0
               i.lista-ul__vineta
               | Pasaporte (ciudadanos extranjeros).
-            li
+            li.mb-0
               i.lista-ul__vineta
               | Cédula de extranjería (extranjeros residentes en el país).
-            li
+            li.mb-0
               i.lista-ul__vineta
               | Permisos migratorios.
 

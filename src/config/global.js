@@ -70,7 +70,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Proceso de check-in',
+            titulo: 'Proceso de <em>check-in</em>',
             hash: 't_2_1',
           },
           {
