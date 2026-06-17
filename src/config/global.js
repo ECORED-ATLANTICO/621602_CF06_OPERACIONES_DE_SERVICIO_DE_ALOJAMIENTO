@@ -401,8 +401,7 @@ export default {
     {
       referencia:
         'Ministerio de Comercio, Industria y Turismo. (2018). <em>Decreto 2119 de 2018</em>. SUIN-Juriscol.',
-      link:
-        'https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/30035965',
+      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30035940',
     },
     {
       referencia:
