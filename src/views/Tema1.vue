@@ -105,21 +105,21 @@
                 th Aplicación práctica
             tbody
               tr
-                td Ley 300 de 1996.
-                td Define el marco general del turismo en Colombia.
-                td Formalización, calidad y responsabilidad del prestador.
+                td Ley 30 de 1996
+                td Define el marco general del turismo en Colombia
+                td Formalización, calidad y responsabilidad del prestador
               tr
-                td Registro Nacional de Turismo.
-                td Identifica prestadores turísticos formales.
-                td Verificación de legalidad del establecimiento.
+                td Registro Nacional de Turismo
+                td Identifica prestadores turísticos formales
+                td Verificación de legalidad del establecimiento
               tr
-                td Guías legales MinCIT.
-                td Orientan obligaciones de alojamiento y hospedaje.
-                td Información clara al huésped y cumplimiento de requisitos.
+                td Guías legales MinCIT
+                td Orientan obligaciones de alojamiento y hospedaje
+                td Información clara al huésped y cumplimiento de requisitos
               tr
-                td Normas técnicas sectoriales.
-                td Establecen criterios de calidad y procedimientos.
-                td Atención, recepción, reservas y servicio al cliente.
+                td Normas técnicas sectoriales
+                td Establecen criterios de calidad y procedimientos
+                td Atención, recepción, reservas y servicio al cliente
 
     separador
 
@@ -206,16 +206,16 @@
             tbody
               tr
                 td Huésped
-                td Recibir información clara, trato respetuoso y servicio contratado.
-                td Presentar documentos válidos, cumplir políticas y pagar servicios.
+                td Recibir información clara, trato respetuoso y servicio contratado
+                td Presentar documentos válidos, cumplir políticas y pagar servicios
               tr
                 td Establecimiento
-                td Aplicar políticas internas y exigir cumplimiento de condiciones.
-                td Prestar el servicio, proteger datos y brindar atención segura.
+                td Aplicar políticas internas y exigir cumplimiento de condiciones
+                td Prestar el servicio, proteger datos y brindar atención segura
               tr
                 td Recepción
-                td Solicitar información necesaria y aplicar protocolos.
-                td Actuar con ética, confidencialidad y precisión operativa.
+                td Solicitar información necesaria y aplicar protocolos
+                td Actuar con ética, confidencialidad y precisión operativa
 
     separador
 

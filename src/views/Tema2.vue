@@ -216,40 +216,40 @@
             tbody
               tr
                 td Documento principal
-                td Cédula de ciudadanía vigente.
+                td Cédula de ciudadanía vigente
                 td Pasaporte vigente
               tr
                 td Documentos adicionales
-                td Generalmente no requiere documentación adicional.
-                td Puede requerir visa, permiso de ingreso o soporte migratorio según nacionalidad y permanencia.
+                td Generalmente no requiere documentación adicional
+                td Puede requerir visa, permiso de ingreso o soporte migratorio según nacionalidad y permanencia
               tr
                 td Información requerida
-                td Datos personales, dirección, contacto, ocupación y fechas de estadía.
-                td Datos personales, nacionalidad, país de residencia, motivo del viaje y fechas de ingreso al país.
+                td Datos personales, dirección, contacto, ocupación y fechas de estadía
+                td Datos personales, nacionalidad, país de residencia, motivo del viaje y fechas de ingreso al país
               tr
                 td Registro en el PMS
-                td Se diligencia el registro hotelero y se almacena la información en el sistema PMS.
-                td Se diligencia el registro hotelero incluyendo información migratoria y nacionalidad.
+                td Se diligencia el registro hotelero y se almacena la información en el sistema PMS
+                td Se diligencia el registro hotelero incluyendo información migratoria y nacionalidad
               tr
                 td Requisitos legales
-                td Cumplimiento de políticas internas y normatividad turística nacional.
-                td Cumplimiento de requisitos migratorios y reportes establecidos por autoridades competentes.
+                td Cumplimiento de políticas internas y normatividad turística nacional
+                td Cumplimiento de requisitos migratorios y reportes establecidos por autoridades competentes
               tr
                 td Control de identidad
-                td Validación del documento y coincidencia con la reserva.
-                td Validación del pasaporte, vigencia y condición migratoria.
+                td Validación del documento y coincidencia con la reserva
+                td Validación del pasaporte, vigencia y condición migratoria
               tr
                 td Reportes y estadísticas
-                td Información utilizada para control operativo y estadístico del hotel.
-                td Información utilizada para control migratorio y estadísticas turísticas nacionales.
+                td Información utilizada para control operativo y estadístico del hotel
+                td Información utilizada para control migratorio y estadísticas turísticas nacionales
               tr
                 td Nivel de verificación
-                td Procedimiento estándar de validación documental.
-                td Procedimiento más detallado por requisitos migratorios y control internacional.
+                td Procedimiento estándar de validación documental
+                td Procedimiento más detallado por requisitos migratorios y control internacional
               tr
                 td Observación operativa
-                td Registro generalmente más ágil y sencillo.
-                td Puede requerir validaciones adicionales o apoyo de autoridades migratorias.
+                td Registro generalmente más ágil y sencillo
+                td Puede requerir validaciones adicionales o apoyo de autoridades migratorias
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
