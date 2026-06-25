@@ -61,7 +61,7 @@
                   p.mb-0 A continuación, se presenta el siguiente enlace, el cual le permitirá profundizar en los principales retos y acciones que se están implementando en Colombia para mitigar el impacto ambiental y promover el desarrollo del turismo sostenible:
             .col-lg-2.col-md-12(style="text-align: center !important;")
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=G4O0XpuGbe4" target="_blank", style="text-align: center !important;")
-                span Ver video
+                span Consultar video
                 i.fas.fa-play
 
     .row.justify-content-center.align-items-center.mb-4  
@@ -80,7 +80,7 @@
                   p.mb-0 Lo invitamos a visitar la página de ACOTUR (Asociación de Turismo Responsable), entidad que trabaja por el desarrollo y la promoción del turismo responsable en Colombia.
             .col-lg-2.col-md-12(style="text-align: center !important;")
               a.boton.color-acento-botones(href="https://www.youtube.com/@acoturcol/videos" target="_blank", style="text-align: center !important;")
-                span Ver video
+                span Consultar video
                 i.fas.fa-play
 
     separador
@@ -197,9 +197,9 @@
               p(data-aos="fade-left").mb-4 Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá adentrarse en la comprensión de la normativa y operación hotelera en la era moderna.
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Normativa y operación hotelera"
+                texto="Normativa y operación hotelera en la era moderna"
                 tiempo
-                :audio="require('../assets/curso/audio/1.mp3')"
+                :audio="require('../assets/curso/audio/2.mp3')"
               )
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-21.p-3.p-sm-4.p-md-5.mb-5

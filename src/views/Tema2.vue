@@ -328,7 +328,7 @@
                 | Define requisitos mínimos para el registro de huéspedes.
               li 
                 i.lista-ul__vineta
-                | Establece la creación de un #[em software] nacional para el diligenciamiento de la TRH.
+                p.mb-0 Establece la creación de un #[em software] nacional para el diligenciamiento de la TRH.
               li 
                 i.lista-ul__vineta
                 | Exige protección y manejo adecuado de datos personales.
@@ -526,6 +526,8 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-3 La atención en recepción debe desarrollarse bajo principios de cordialidad, eficiencia, discreción y profesionalismo. Asimismo, el personal debe mantener una actitud orientada a la solución de necesidades y al cumplimiento de las políticas internas del establecimiento.
+        br
+        br
         p.mb-0 Además del servicio al cliente, los protocolos también cumplen funciones relacionadas con seguridad, control operativo y protección de información, especialmente durante procesos de registro, entrega de llaves o validación de identidad.
 
 
@@ -540,7 +542,7 @@
               p(data-aos="fade-left").mb-4 Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá fortalecer el protocolo de atención en la recepción hotelera.
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Protocolos de atención en recepción"
+                texto="Protocolos de atención en recepción hotelera"
                 tiempo
                 :audio="require('../assets/curso/audio/1.mp3')"
               )
