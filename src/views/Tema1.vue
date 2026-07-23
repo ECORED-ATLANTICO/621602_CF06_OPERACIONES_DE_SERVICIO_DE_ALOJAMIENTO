@@ -105,20 +105,20 @@
                 th Aplicación práctica
             tbody
               tr
-                td Ley 30 de 1996
-                td Define el marco general del turismo en Colombia
+                td Ley 300 de 1996
+                td Define el marco general del turismo en Colombia.
                 td Formalización, calidad y responsabilidad del prestador
               tr
                 td Registro Nacional de Turismo
-                td Identifica prestadores turísticos formales
+                td Identifica prestadores turísticos formales.
                 td Verificación de legalidad del establecimiento
               tr
                 td Guías legales MinCIT
-                td Orientan obligaciones de alojamiento y hospedaje
+                td Orientan obligaciones de alojamiento y hospedaje.
                 td Información clara al huésped y cumplimiento de requisitos
               tr
                 td Normas técnicas sectoriales
-                td Establecen criterios de calidad y procedimientos
+                td Establecen criterios de calidad y procedimientos.
                 td Atención, recepción, reservas y servicio al cliente
 
     separador
@@ -234,8 +234,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 #[b Figura 1.]
           span Decálogo de buenas prácticas para la protección de la información 
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img16.png", alt="La figura presenta un decálogo de buenas prácticas orientadas a la protección de la información de los huéspedes en un establecimiento hotelero, destacando que estos datos son confidenciales y su resguardo es responsabilidad de todo el personal. Se enfatiza la necesidad de verificar la identidad del huésped antes de acceder o compartir información, evitar la divulgación de datos a personas no autorizadas y utilizar contraseñas seguras para el acceso a los sistemas. Además, se resaltan acciones clave como custodiar adecuadamente los documentos físicos y digitales, acceder únicamente a la información necesaria para las funciones laborales, usar de manera segura los dispositivos tecnológicos y reportar oportunamente cualquier incidente. En conjunto, estas prácticas buscan garantizar la seguridad de la información, proteger la privacidad del huésped y preservar la confianza y la reputación del hotel.")
-        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img16-m.png", alt="La figura presenta un decálogo de buenas prácticas orientadas a la protección de la información de los huéspedes en un establecimiento hotelero, destacando que estos datos son confidenciales y su resguardo es responsabilidad de todo el personal. Se enfatiza la necesidad de verificar la identidad del huésped antes de acceder o compartir información, evitar la divulgación de datos a personas no autorizadas y utilizar contraseñas seguras para el acceso a los sistemas. Además, se resaltan acciones clave como custodiar adecuadamente los documentos físicos y digitales, acceder únicamente a la información necesaria para las funciones laborales, usar de manera segura los dispositivos tecnológicos y reportar oportunamente cualquier incidente. En conjunto, estas prácticas buscan garantizar la seguridad de la información, proteger la privacidad del huésped y preservar la confianza y la reputación del hotel.")
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img16.png", alt="La figura presenta decálogo de buenas prácticas para proteger la información de huéspedes mediante el manejo seguro de datos y la ciberseguridad.")
+        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img16-m.png", alt="La figura presenta decálogo de buenas prácticas para proteger la información de huéspedes mediante el manejo seguro de datos y la ciberseguridad.")
         figcaption Nota. SENA, (2026).
 
 

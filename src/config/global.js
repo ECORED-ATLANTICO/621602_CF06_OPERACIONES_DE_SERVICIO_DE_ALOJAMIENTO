@@ -427,7 +427,7 @@ export default {
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de línea de producción Atlántico',
+          cargo: 'Responsable de la línea de producción',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -441,7 +441,7 @@ export default {
           centro: 'Centro de Servicios y Gestión Empresarial',
         },
         {
-          nombre: 'Harbey Castelblanco',
+          nombre: 'Harbey Enrique Castelblanco',
           cargo: 'Experto temático',
           centro: 'Centro Colombo Alemán - Regional Atlántico',
         },

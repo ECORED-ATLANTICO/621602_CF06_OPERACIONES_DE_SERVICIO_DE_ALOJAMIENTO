@@ -288,7 +288,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 #[b Figura 2.]
           span Ejemplo de tarjeta de registro hotelero 
-        img.mb-2(data-aos="fade-up", src="@/assets/curso/tema2/img17.png", alt="En la figura 2 se detalla un ejemplo de tarjeta de registro hotelero. En ella se introduce la información del huésped al momento de su ingreso.  Los datos que se incluyen en esta tarjeta de registro son: Número o nombre de la habitación. Tipo de identificación. Número de identificación. Nombre (s), apellido, segundo apellido o de casada. Fecha de nacimiento. Género. Nacionalidad. Principal motivo del viaje. Categoría visa o permiso de ingreso. Número de visa. Fecha expedición visa. Vencimiento visa. Profesión. Ocupación u oficio. País de residencia. Departamento/estado/provincia de residencia. Ciudad de residencia. País de procedencia. Departamento/estado/provincia de procedencia. Ciudad de procedencia. País de destino. Departamento/estado/provincia de destino. Ciudad de destino. Fecha de entrada (check-in). Fecha de salida (check-out). Número de acompañantes.")
+        img.mb-2(data-aos="fade-up", src="@/assets/curso/tema2/img17.png", alt="La figura 2 detalla un ejemplo de una tarjeta de registro hotelero empleada para registrar la información del huésped al momento de su ingreso al establecimiento de alojamiento. El formato contiene campos para datos de identificación, información personal, residencia, procedencia y destino del viaje, datos migratorios cuando corresponden, fechas de check-in y check-out, habitación asignada y cantidad de acompañantes.")
         //- img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img16-m.png", alt="La figura presenta un decálogo de buenas prácticas orientadas a la protección de la información de los huéspedes en un establecimiento hotelero, destacando que estos datos son confidenciales y su resguardo es responsabilidad de todo el personal. Se enfatiza la necesidad de verificar la identidad del huésped antes de acceder o compartir información, evitar la divulgación de datos a personas no autorizadas y utilizar contraseñas seguras para el acceso a los sistemas. Además, se resaltan acciones clave como custodiar adecuadamente los documentos físicos y digitales, acceder únicamente a la información necesaria para las funciones laborales, usar de manera segura los dispositivos tecnológicos y reportar oportunamente cualquier incidente. En conjunto, estas prácticas buscan garantizar la seguridad de la información, proteger la privacidad del huésped y preservar la confianza y la reputación del hotel.")
         figcaption Nota. SENA, (2026).
 
@@ -422,7 +422,7 @@
                 .col-lg-auto.mb-4.mb-lg-0
                   img(src="@/assets/curso/tema2/img22.svg", style="max-width: 100px;").mx-auto
                 .col-lg
-                  p.mb-0 Para profundizar más sobre los textos, decretos, y leyes que regulan la normatividad del registro hotelero en Colombia, consulte los siguientes anexos:
+                  p.mb-0 Para profundizar más sobre los textos, decretos y leyes que regulan la normatividad del registro hotelero en Colombia, consulte los siguientes anexos:
             .col-lg-7
               .row
                 .col-lg-6.col-md-6.col-12.d-flex.mb-3
