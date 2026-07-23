@@ -240,8 +240,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 #[b Figura 4.]
           span Principales recomendaciones y buenas prácticas de ciberseguridad 
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema3/img17.png", alt="La figura describe ocho recomendaciones de ciberseguridad para proteger datos, prevenir incidentes y garantizar la continuidad operativa del hotel.")
-        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema3/img18.png", alt="La figura describe ocho recomendaciones de ciberseguridad para proteger datos, prevenir incidentes y garantizar la continuidad operativa del hotel.")
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema3/img17.svg", alt="La figura describe ocho recomendaciones de ciberseguridad para proteger datos, prevenir incidentes y garantizar la continuidad operativa del hotel.")
+        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema3/img18.svg", alt="La figura describe ocho recomendaciones de ciberseguridad para proteger datos, prevenir incidentes y garantizar la continuidad operativa del hotel.")
         figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-5
